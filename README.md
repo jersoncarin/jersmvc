@@ -1,1 +1,2 @@
-# JersMVC - A lightweight PHP Model-View-Controller with minimal features
+# JersMVC PHP 
+- A lightweight PHP Model-View-Controller with minimal features
